@@ -1,1 +1,2 @@
-chainlit==1.0.200
+chainlit==1.0.101
+openai==1.10.0
